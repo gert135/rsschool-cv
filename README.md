@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://gert135.github.io/rsschool-cv/
